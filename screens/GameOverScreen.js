@@ -58,6 +58,6 @@ const styles = StyleSheet.create({
   },
   highlightText: {
     fontFamily: "open-sans-bold",
-    color: Colors.primary500,
+    color: Colors.primary200,
   },
 });

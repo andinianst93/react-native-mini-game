@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 24,
     borderRadius: 8,
     padding: 16,
-    backgroundColor: Colors.primary700,
+    backgroundColor: Colors.primary800,
     elevation: 4,
   },
 });

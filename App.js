@@ -70,7 +70,7 @@ export default function App() {
       style={styles.rootScreen}
     >
       <ImageBackground
-        source={require("./assets/images/bg.png")}
+        source={require("./assets/images/bg-2.jpg")}
         resizeMode="cover"
         style={styles.rootScreen}
         imageStyle={styles.bgImg}
