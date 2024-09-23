@@ -18,5 +18,6 @@ const styles = StyleSheet.create({
     padding: 12,
     marginVertical: 16,
     elevation: 2,
+    maxWidth: "80%",
   },
 });
